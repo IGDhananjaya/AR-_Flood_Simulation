@@ -75,7 +75,6 @@ The simulation logic is based on the following rainfall data:
 
 <img src="ImageGithub/HomePage.jpeg" width="250" alt="Main Menu"> <img src="ImageGithub/MainPage.jpeg" width="250" alt="Flood Simulation">
 
-*(Note: Ensure you have an 'images' folder in your repo with screenshots named 'menu-ui.png' and 'flood-simulation.png')*
 
 ## 👥 Team
 **Universitas Pendidikan Ganesha (Software Engineering Technology)**
