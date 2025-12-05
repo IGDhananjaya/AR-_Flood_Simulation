@@ -7,7 +7,7 @@
 
 **AR Flood Simulation** is an Android-based Augmented Reality application designed to visualize flood risks based on rainfall intensity. The simulation focuses on a factory area in **Nakhon Phanom, Thailand**, providing a real-time, interactive 3D visualization of water levels rising and spreading across the terrain.
 
-[cite_start]This project was developed as a "Proyek Independen Mahasiswa" (Student Independent Project) at **Universitas Pendidikan Ganesha**, in collaboration with **King Mongkut's University of Technology Thonburi (KMUTT)**, Thailand[cite: 1, 12, 33].
+This project was developed as a "Proyek Independen Mahasiswa" (Student Independent Project) at **Universitas Pendidikan Ganesha**, in collaboration with **King Mongkut's University of Technology Thonburi (KMUTT)**, Thailand.
 
 ## 📖 Table of Contents
 - [About the Project](#-about-the-project)
@@ -19,34 +19,34 @@
 - [Team](#-team)
 
 ## ℹ️ About the Project
-Flooding is a complex challenge in urban areas, often caused by high rainfall exceeding drainage capacity. [cite_start]Static flood maps are often difficult for the general public to interpret[cite: 28, 30]. 
+Flooding is a complex challenge in urban areas, often caused by high rainfall exceeding drainage capacity. Static flood maps are often difficult for the general public to interpret.
 
 This application aims to:
 1. Visualize flood potential interactively using AR.
 2. Provide concrete educational media regarding the impact of rainfall on the environment.
 3. Support disaster mitigation awareness.
 
-[cite_start]The app simulates the overflow of the Mekong river and drainage systems around a specific factory site in Nakhon Phanom based on user-selected rainfall data[cite: 32].
+The app simulates the overflow of the Mekong river and drainage systems around a specific factory site in Nakhon Phanom based on user-selected rainfall data.
 
 ## 🌟 Features
-* **Marker-Based Tracking:** Uses Vuforia to detect a specific map marker of the factory area[.
-* [cite_start]**Interactive UI:** Clean interface with 'Scan AR', 'Guide', and 'About' menus.
+* **Marker-Based Tracking:** Uses Vuforia to detect a specific map marker of the factory area.
+* **Interactive UI:** Clean interface with 'Scan AR', 'Guide', and 'About' menus.
 * **Rainfall Simulation Selector:** Users can choose between 4 intensity levels:
     * Light
     * Medium
     * Heavy
-    * [cite_start]Very Heavy[cite: 469].
-* [cite_start]**Real-time 3D Animation:** Visualizes rain effects and rising water levels (puddles to severe flooding) overlaid on the physical map[cite: 365, 420].
+    * Very Heavy
+* **Real-time 3D Animation:** Visualizes rain effects and rising water levels (puddles to severe flooding) overlaid on the physical map.
 
 ## 🛠 Tech Stack
-* [cite_start]**Engine:** Unity[cite: 190].
-* [cite_start]**AR SDK:** Vuforia Qualcomm (Target Management System)[cite: 211].
-* [cite_start]**3D Modeling:** Blender (for environment and water animation)[cite: 204].
-* [cite_start]**Debugging:** RenderDoc (for graphics debugging)[cite: 198].
-* [cite_start]**Development Method:** MDLC (Multimedia Development Life Cycle)[cite: 223].
+* **Engine:** Unity
+* **AR SDK:** Vuforia Qualcomm (Target Management System)
+* **3D Modeling:** Blender (for environment and water animation)
+* **Debugging:** RenderDoc (for graphics debugging)
+* **Development Method:** MDLC (Multimedia Development Life Cycle)
 
 ## 🌧 Rainfall Categories
-[cite_start]The simulation logic is based on the following rainfall data[cite: 323]:
+The simulation logic is based on the following rainfall data:
 
 | Category | Intensity (mm/6 hours) | Intensity (mm/day) | Risk Level |
 | :--- | :--- | :--- | :--- |
@@ -57,32 +57,34 @@ This application aims to:
 
 ## 📲 Installation & Usage
 ### Prerequisites
-* [cite_start]Android Device with **Android 10 (API Level 29)** or higher[cite: 351].
-* [cite_start]Minimum RAM: 4GB[cite: 567].
+* Android Device with **Android 10 (API Level 29)** or higher.
+* Minimum RAM: **4GB**.
 * Rear Camera functioning.
 
 ### Steps
-1.  [cite_start]Download the `.apk` file from the [Releases Section](#) (or use the drive link provided in documentation [cite: 506]).
+1.  Download the `.apk` file from the [Releases Section](#).
 2.  Install the application on your Android device.
-3.  [cite_start]**Print or Display the Marker:** You need the specific satellite map image of the Nakhon Pathom factory (found in `Assets/Marker` or the images folder of this repo)[cite: 372].
-4.  [cite_start]Open the App and tap **"Scan AR"**[cite: 343].
+3.  **Print or Display the Marker:** You need the specific satellite map image of the Nakhon Pathom factory.
+4.  Open the App and tap **"Scan AR"**.
 5.  Point your camera at the marker until the 3D terrain appears.
 6.  Select a rainfall button to see the flood simulation.
 
-> [cite_start]**Demo Video:** Watch the application in action [here](https://youtu.be/qeHYk8OmlG8)[cite: 511].
+> **Demo Video:** Watch the application in action [here](https://youtu.be/qeHYk8OmlG8).
 
 ## 📸 Screenshots
-*(Place your screenshots here, e.g., Main Menu, AR View, Flood Levels)*
-<img src="ImageGithub/HomePage.jpeg" width="250"> <img src="ImageGithub/MainPage.jpeg" width="250"> 
+
+<img src="ImageGithub/HomePage.jpeg" width="250" alt="Main Menu"> <img src="ImageGithub/MainPage.jpeg" width="250" alt="Flood Simulation">
+
+*(Note: Ensure you have an 'images' folder in your repo with screenshots named 'menu-ui.png' and 'flood-simulation.png')*
 
 ## 👥 Team
 **Universitas Pendidikan Ganesha (Software Engineering Technology)**
-* [cite_start]**I Gede Dhananjaya** (Developer: Unity Implementation, MDLC Logic) [cite: 7, 354]
-* [cite_start]**Luh Ayu Febriasih** (Assets: 3D Modeling, Data Collection) [cite: 8, 354]
+* **I Gede Dhananjaya** (Developer: Unity Implementation, MDLC Logic)
+* **Luh Ayu Febriasih** (Assets: 3D Modeling, Data Collection)
 
 **Supervisors**
 * Dr. Ni Wayan Marti, S.Kom., M.Kom.
-* [cite_start]Dr. Ni Ketut Kertiasih, S.Si., M.Pd.[cite: 100, 101].
+* Dr. Ni Ketut Kertiasih, S.Si., M.Pd.
 
 ---
 *This project is part of the Student Independent Project (PIM) 2025.*
