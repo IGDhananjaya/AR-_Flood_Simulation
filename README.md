@@ -5,7 +5,7 @@
 ![AR](https://img.shields.io/badge/AR-Vuforia-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
-**AR Flood Simulation** is an Android-based Augmented Reality application designed to visualize flood risks based on rainfall intensity. [cite_start]The simulation focuses on a factory area in **Nakhon Phanom, Thailand**, providing a real-time, interactive 3D visualization of water levels rising and spreading across the terrain[cite: 4, 31, 32].
+**AR Flood Simulation** is an Android-based Augmented Reality application designed to visualize flood risks based on rainfall intensity. The simulation focuses on a factory area in **Nakhon Phanom, Thailand**, providing a real-time, interactive 3D visualization of water levels rising and spreading across the terrain.
 
 [cite_start]This project was developed as a "Proyek Independen Mahasiswa" (Student Independent Project) at **Universitas Pendidikan Ganesha**, in collaboration with **King Mongkut's University of Technology Thonburi (KMUTT)**, Thailand[cite: 1, 12, 33].
 
@@ -22,15 +22,15 @@
 Flooding is a complex challenge in urban areas, often caused by high rainfall exceeding drainage capacity. [cite_start]Static flood maps are often difficult for the general public to interpret[cite: 28, 30]. 
 
 This application aims to:
-1. [cite_start]Visualize flood potential interactively using AR[cite: 78].
-2. [cite_start]Provide concrete educational media regarding the impact of rainfall on the environment[cite: 71].
-3. [cite_start]Support disaster mitigation awareness[cite: 73].
+1. Visualize flood potential interactively using AR.
+2. Provide concrete educational media regarding the impact of rainfall on the environment.
+3. Support disaster mitigation awareness.
 
 [cite_start]The app simulates the overflow of the Mekong river and drainage systems around a specific factory site in Nakhon Phanom based on user-selected rainfall data[cite: 32].
 
 ## 🌟 Features
-* [cite_start]**Marker-Based Tracking:** Uses Vuforia to detect a specific map marker of the factory area[cite: 371].
-* [cite_start]**Interactive UI:** Clean interface with 'Scan AR', 'Guide', and 'About' menus[cite: 397].
+* **Marker-Based Tracking:** Uses Vuforia to detect a specific map marker of the factory area[.
+* [cite_start]**Interactive UI:** Clean interface with 'Scan AR', 'Guide', and 'About' menus.
 * **Rainfall Simulation Selector:** Users can choose between 4 intensity levels:
     * Light
     * Medium
@@ -73,7 +73,7 @@ This application aims to:
 
 ## 📸 Screenshots
 *(Place your screenshots here, e.g., Main Menu, AR View, Flood Levels)*
-<img src="path/to/screenshot1.png" width="250"> <img src="path/to/screenshot2.png" width="250"> 
+<img src="ImageGithub/HomePage.jpeg" width="250"> <img src="ImageGithub/MainPage.jpeg" width="250"> 
 
 ## 👥 Team
 **Universitas Pendidikan Ganesha (Software Engineering Technology)**
