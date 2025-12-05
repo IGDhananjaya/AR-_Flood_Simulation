@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="mapscanareng" size="1.000000 1.500375" />
+    <ImageTarget name="mapscanar" size="1.000000 1.500536" />
+    <ImageTarget name="gambarpabrik" size="1.000000 1.060409" />
+  </Tracking>
+</QCARConfig>
